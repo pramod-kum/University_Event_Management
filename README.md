@@ -121,6 +121,6 @@ We have used CrudRepository as a database to implement CRUD Operations.
 
 ## 📝Project Summary
 
-I have created university events management project.  In this the user can add the student & Event.  Can delete, update.  can find.  Can add through specific ID.
+I have created university events management project.  In this the user can add the student & Event.  Can delete, update.  can find.
 
 ![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
